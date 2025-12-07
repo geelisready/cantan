@@ -1,0 +1,5 @@
+{
+  "name": "Settlers of AI-Catan",
+  "description": "A fully playable Catan-style board game featuring a hexagonal grid, resource management, building mechanics, and a Gemini-powered AI Advisor.",
+  "requestFramePermissions": []
+}
